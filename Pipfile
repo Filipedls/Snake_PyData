@@ -1,0 +1,19 @@
+[[source]]
+name = "pypi"
+url = "https://pypi.org/simple"
+verify_ssl = true
+
+[dev-packages]
+
+[packages]
+pygame = "==1.9.6"
+sklearn = "*"
+numpy = "==1.17.2"
+pandas = "==0.25.1"
+ipykernel = "*"
+jupyter = "*"
+Shapely = "==1.6.4.post2"
+matplotlib = "*"
+
+[requires]
+python_version = "3.7"

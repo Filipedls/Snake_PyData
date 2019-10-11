@@ -1,0 +1,7 @@
+pygame==1.9.6
+sklearn
+numpy==1.17.2
+pandas==0.25.1
+shapely==1.6.4.post2
+ipykernel
+jupyter
