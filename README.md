@@ -5,9 +5,10 @@
 Alexander (Arekkusu304) - http://www.pygame.org/project/3314
 
 
-## Packeges
+## Packages
 pip install jupyter
 pip install pipenv
+python3.7
 
 
 ## Create a virtual environment
