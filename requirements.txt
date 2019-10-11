@@ -5,3 +5,4 @@ pandas==0.25.1
 shapely==1.6.4.post2
 ipykernel
 jupyter
+matplotlib
